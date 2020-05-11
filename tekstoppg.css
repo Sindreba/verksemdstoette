@@ -1,0 +1,63 @@
+body{
+	text-align:center;
+	line-height: 1.5
+}
+.tekstbilde{
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  color: D68800;
+  font-size:55px
+}
+.sentrert{
+ position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.datavirus{
+ position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.antivirus{
+ position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.phishing{
+ position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.idtyveri{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hacking{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+	border-radius:8px;
+	width:1000px;
+	height:400px;
+}
+
